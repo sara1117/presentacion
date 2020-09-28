@@ -27,6 +27,10 @@ float:right;
 width: 30px;
 height: 30px;
  }
+ .letra{
+   color: white;
+ }
+ 
 body {
     background-color: #000000
 }
@@ -36,7 +40,6 @@ body {
     .texto{
       text-align: center;
     }
-
 hr {
   border-color: pink;
 }
